@@ -1,0 +1,8 @@
+*~
+.project
+.classpath
+.settings
+.externalToolBuilders
+ear/src/main/application
+target
+.svn
