@@ -27,6 +27,7 @@ public class DBConnection {
             } catch (SQLException e) {
                 log.error("Unable to close connection", e);
             }
+            conn = null;
         }
     }
 
